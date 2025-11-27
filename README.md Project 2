@@ -4,3 +4,6 @@
 
 - This calculator supports addition, subtraction, multiplication, and division. 
 - It also includes a clear button, basic error handling, and an easy-to-use button-based interface.
+
+- The user enters numbers and operators using the buttons on the interface.
+- When the equals button is pressed, the program calculates the result and displays it on the screen, or shows an error if the input is invalid.
