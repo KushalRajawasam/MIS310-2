@@ -1,1 +1,6 @@
-# MIS310-2
+# Python Project 2
+
+- This is a simple calculator application created using Python and Tkinter.
+
+- This calculator supports addition, subtraction, multiplication, and division. 
+- It also includes a clear button, basic error handling, and an easy-to-use button-based interface.
